@@ -33,7 +33,7 @@ Je suis un étudiant en Génie Informatique et j'aime:
 - 🎮⌨️ du développement de jeux  
 </details>
 
-<p align="center"><img width="391" height="220" src="https://github-readme-stats.vercel.app/api?username=gabrielgcma&show_icons=true&theme=tokyonight"> <img width="391" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcma&layout=compact&exclude_repo=FirstARProject,archimedespi"></p>
+<p align="center"><img width=auto height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielgcma&show_icons=true&theme=tokyonight"> <img width=auto height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgcma&layout=compact&exclude_repo=FirstARProject,archimedespi"></p>
 
 <!--
 **gabrielgcma/gabrielgcma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
