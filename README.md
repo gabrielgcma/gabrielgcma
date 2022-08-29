@@ -23,7 +23,7 @@
 <details closed> 
   <summary>🇫🇷 À propos de moi</summary>
   <br>
-Je suis un étudiant en génie informatique et j'aime bricoler avec:
+Je suis un étudiant en Génie Informatique et j'aime bricoler avec:
   
 - ⚙️ du hardware et du prototypage électronique 
 - 💻 du infographie
