@@ -1,9 +1,9 @@
 #### Hi! Olá! Salut!
 
 <details closed>
-  <summary>🇬🇧 About me</summary>
-  <br>
-  I'm a Computer Engineering student and I like tinkering with:
+<summary>🇬🇧 About me</summary>
+<br>
+I'm a Computer Engineering student and I like tinkering with:
   
 - ⚙️ computer hardware and electronic prototyping 
 - 💻 computer graphics 
