@@ -1,7 +1,7 @@
 #### Hi! Olá! Salut!
 
 <details closed>
-<summary>🇬🇧 About me</summary>
+<summary>:gb: About me</summary>
 <br>
 I'm a Computer Engineering student and undergrad researcher. I like tinkering with:
 
@@ -12,7 +12,7 @@ I'm a Computer Engineering student and undergrad researcher. I like tinkering wi
 </details>
 
 <details closed>  
-  <summary>🇧🇷 Sobre mim</summary>
+  <summary:br: Sobre mim</summary>
   <br>
 Sou um estudante de Engenharia de Computação e pesquisador de iniciação científica. Gosto de brincar com:
   
@@ -23,7 +23,7 @@ Sou um estudante de Engenharia de Computação e pesquisador de iniciação cien
 </details>  
 
 <details closed> 
-  <summary>🇫🇷 À propos de moi</summary>
+  <summary>:fr: À propos de moi</summary>
   <br>
 Je suis un étudiant en Génie Informatique et chercheur de premier cycle. J'aime:
   
