@@ -12,7 +12,7 @@ I'm a Computer Engineering student and undergrad researcher. I like tinkering wi
 </details>
 
 <details closed>  
-  <summary>:br: Sobre mim</summary>
+  <summary>:brazil: Sobre mim</summary>
   <br>
 Sou um estudante de Engenharia de Computação e pesquisador de iniciação científica. Gosto de brincar com:
   
